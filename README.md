@@ -4,7 +4,7 @@ Using Python to explore data related to bike share systems for three major citie
 The data provided by Motivate, a bike share system provider for many major cities in the United States was used to uncover bike share usage patterns. I compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 <h3> check https://drive.google.com/drive/folders/1Qw1F7XjyKeH_CYVf7_B89Fhm68WqIMTg?usp=sharing for csv files</h3>
 
-The Datasets
+<h2>The Datasets</h2>
 
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
@@ -22,7 +22,7 @@ User Type (Subscriber or Customer)
 
 The Chicago and New York City files also have the following two columns: #Birth Year #Gender
 
-Statistics Computed
+<h2>Statistics Computed</h2>
 
 I learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. I write code to provide the following information:
 
@@ -36,7 +36,7 @@ total travel time average travel time #4 User info
 
 counts of each user type counts of each gender (only available for NYC and Chicago) earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
-An Interactive Experience
+<h2>An Interactive Experience</h2>
 
 The script takes in raw input to create an interactive experience in the terminal that answers questions about the dataset. The experience is interactive because depending on a user's input, the answers to the questions on the previous page will change! There are four questions that will change the answers:
 
