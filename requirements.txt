@@ -1,0 +1,4 @@
+python
+pandas == 0.22
+numpy
+time
