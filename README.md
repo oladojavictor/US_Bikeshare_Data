@@ -2,6 +2,7 @@
 Using Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I write code to import the data and answer interesting questions about it by computing descriptive statistics. I also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 The data provided by Motivate, a bike share system provider for many major cities in the United States was used to uncover bike share usage patterns. I compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+<h3> check https://drive.google.com/drive/folders/1Qw1F7XjyKeH_CYVf7_B89Fhm68WqIMTg?usp=sharing for csv files</h3>
 
 The Datasets
 
